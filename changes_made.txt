@@ -4,3 +4,9 @@ Changes:
 - implemented reset to wipe any browser-default stylings
 - created, added, and linked icon for page tab
 - changed page title
+- cleaned up css page by comma-separating elements that had the same styles
+(IE- .search-engine-optimization, .online-reputation-management, .social-media-marketing)
+- Changed <div> tags in header for buttons to <nav> tags to be more semantically specific. Made appropriate changes
+to these same elements in the style.css file to support this change.
+
+
