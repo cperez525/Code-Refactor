@@ -2,3 +2,5 @@ Changes:
 
 - created a separate .css file for reset
 - implemented reset to wipe any browser-default stylings
+- created, added, and linked icon for page tab
+- changed page title
