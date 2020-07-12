@@ -1,0 +1,4 @@
+Changes:
+
+- created a separate .css file for reset
+- implemented reset to wipe any browser-default stylings
