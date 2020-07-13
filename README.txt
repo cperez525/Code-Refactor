@@ -38,4 +38,9 @@ Reputation Management, and Social Media Marketing <div> tags to <section> tags t
 referenced in the html, and removed/modified the CSS so that the image dimensions would not be changed. Added an alt to the hero
 image to improve accessibility. 
 
+- HTML/CSS: Cleaned up a LOT more to be more efficient after discussion with my classmates and realizing that I left a whole bunch of classes lying around
+that didn't need to be there.
+
+- HTML/CSS: Nested the hero <img> element inside a <figure> tag.
+changed height for hero image to "auto" so that the height would auto-adjust to any screen resolution (hopefully)
 
