@@ -44,3 +44,5 @@ that didn't need to be there.
 - HTML/CSS: Nested the hero <img> element inside a <figure> tag.
 changed height for hero image to "auto" so that the height would auto-adjust to any screen resolution (hopefully)
 
+URL for deployed app: https://cperez525.github.io/Code-Refactor/
+
